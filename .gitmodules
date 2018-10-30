@@ -1,2 +1,3 @@
 [submodule "themes/next"]
 	path = themes/next
+	fetchrecursesubmodules = true
