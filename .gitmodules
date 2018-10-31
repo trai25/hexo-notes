@@ -1,3 +1,4 @@
 [submodule "themes/next"]
 	path = themes/next
 	fetchrecursesubmodules = true
+	url = git@github.com:trai25/hexo-theme-next.git
